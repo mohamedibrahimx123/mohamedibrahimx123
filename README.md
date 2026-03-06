@@ -41,13 +41,6 @@ Dynamic e-commerce interface built with ReactJS and Tailwind CSS, featuring prod
 
 ---
 
-### 🔹 E-commerce Egypt Store
-💻 GitHub: https://github.com/mohamedibrahimx123/E-commerce-Egypt-Store-  
-
-Online store UI focusing on product display, search and filtering features, and clean component structure.
-
----
-
 ### 🔹 Dragon Repeller Game
 🔗 Live: https://mohamedibrahimx123.github.io/Dragon-repeller-game/  
 💻 GitHub: https://github.com/mohamedibrahimx123/Dragon-repeller-game  
