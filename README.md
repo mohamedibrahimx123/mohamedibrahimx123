@@ -7,26 +7,41 @@ Final year Computer Science student at 6th of October University with a strong f
 
 I enjoy turning ideas into clean, scalable, and interactive interfaces with real-world usability.
 
-🚀 What I Do
-
-✔ Build responsive and modern web apps
-✔ Create reusable and scalable components
-✔ Focus on UI/UX and performance
-✔ Convert designs into real applications
-
+🧭 Mind Map (Me)
+Mohamed Ibrahim
+│
+├── 🎓 Education
+│   └── Computer Science (Final Year - 2025)
+│
+├── 💻 Frontend Skills
+│   ├── ReactJS
+│   ├── JavaScript (ES6+)
+│   ├── HTML5 / CSS3
+│
+├── 🎨 Styling
+│   ├── Tailwind CSS
+│   └── Bootstrap
+│
+├── ⚙️ Tools
+│   ├── Git & GitHub
+│   └── Vite
+│
+├── 🧠 Strengths
+│   ├── Clean Code
+│   ├── Component Architecture
+│   ├── UI/UX Focus
+│   └── Responsive Design
+│
+└── 🎯 Goals
+    ├── Remote Work
+    ├── Freelancing
+    └── Real-world Projects
 🛠️ Tech Stack
 
-💻 Frontend:
-ReactJS JavaScript (ES6+) HTML5 CSS3
-
-🎨 Styling:
-Tailwind CSS Bootstrap
-
-⚙️ Tools:
-Git GitHub Vite
-
-🔗 Other Skills:
-REST APIs Responsive Design DOM Manipulation
+Frontend: ReactJS, JavaScript, HTML5, CSS3
+Styling: Tailwind CSS, Bootstrap
+Tools: Git, GitHub, Vite
+Other: REST APIs, Responsive Design
 
 📌 Featured Projects
 🟡 Perfume E-commerce Store (Best Project)
@@ -38,18 +53,41 @@ https://mohamedibrahimx123.github.io/Perfume-Ecommerce/
 https://github.com/mohamedibrahimx123/Templete-Perfume-Website
 
 🧠 Overview:
-A premium perfume e-commerce demo with modern UI, smooth animations, and interactive shopping experience.
+A premium perfume e-commerce demo with modern UI and smooth animations.
+
+🧭 Mind Map:
+
+Perfume Store
+│
+├── 🖥️ Pages
+│   ├── Home
+│   ├── Products
+│   ├── Admin
+│   └── Support
+│
+├── ⚙️ Features
+│   ├── Add to Cart
+│   ├── Toast Notifications
+│   ├── Animations
+│   └── Responsive Design
+│
+├── 🎨 UI/UX
+│   ├── Luxury Design
+│   ├── Gold Theme
+│   └── Smooth Experience
+│
+└── 🧠 Tech
+    ├── React
+    ├── Tailwind
+    ├── Framer Motion
+    └── Vite
 
 ✨ Highlights:
-✔ Luxury UI design (Gold + Cream aesthetic)
-✔ Smooth animations using Framer Motion
-✔ Add-to-cart + Toast notifications
-✔ Fully responsive design
-✔ Component-based architecture
-✔ Admin dashboard demo
-
-⚡ Tech Used:
-React + Vite | Tailwind | Framer Motion | React Hot Toast
+✔ Luxury UI design
+✔ Smooth animations
+✔ Add-to-cart system
+✔ Responsive layout
+✔ Component-based structure
 
 🍔 E-commerce Food Website
 
@@ -57,11 +95,26 @@ React + Vite | Tailwind | Framer Motion | React Hot Toast
 
 💻 https://github.com/mohamedibrahimx123/E-commerce-Food-website
 
+🧭 Mind Map:
+
+Food E-commerce
+│
+├── 🖥️ Pages
+│   └── Products
+│
+├── ⚙️ Features
+│   ├── Cart System
+│   ├── Product Grid
+│   └── Responsive UI
+│
+└── 🧠 Tech
+    ├── React
+    └── Tailwind
+
 ✨ Highlights:
 ✔ Shopping cart functionality
-✔ Responsive product grid
-✔ Clean UI with Tailwind
-✔ State management in React
+✔ Responsive grid
+✔ Clean UI
 
 🌐 Portfolio Website
 
@@ -69,11 +122,26 @@ React + Vite | Tailwind | Framer Motion | React Hot Toast
 
 💻 https://github.com/mohamedibrahimx123/WebsiteProfilo
 
+🧭 Mind Map:
+
+Portfolio
+│
+├── 🖥️ Sections
+│   ├── About
+│   ├── Projects
+│   └── Contact
+│
+├── 🎨 UI
+│   ├── Clean Design
+│   └── Animations
+│
+└── 🧠 Purpose
+    └── Personal Branding
+
 ✨ Highlights:
-✔ Personal branding & clean UI
+✔ Clean personal branding
 ✔ Smooth animations
 ✔ Fully responsive
-✔ Showcases all projects
 
 🎮 Dragon Repeller Game
 
@@ -81,9 +149,25 @@ React + Vite | Tailwind | Framer Motion | React Hot Toast
 
 💻 https://github.com/mohamedibrahimx123/Dragon-repeller-game
 
+🧭 Mind Map:
+
+Game
+│
+├── 🎮 Logic
+│   ├── Player Actions
+│   ├── Enemy System
+│   └── Score System
+│
+├── ⚙️ Features
+│   ├── DOM Manipulation
+│   └── Events
+│
+└── 🧠 Tech
+    └── JavaScript
+
 ✨ Highlights:
-✔ Game logic using JavaScript
-✔ DOM manipulation & events
+✔ Game logic implementation
+✔ DOM & events usage
 ✔ Interactive gameplay
 
 🍽️ Restaurant Website
@@ -92,6 +176,22 @@ React + Vite | Tailwind | Framer Motion | React Hot Toast
 
 💻 https://github.com/mohamedibrahimx123/Restaurant_Website
 
+🧭 Mind Map:
+
+Restaurant Site
+│
+├── 🖥️ Sections
+│   ├── Menu
+│   ├── About
+│   └── Contact
+│
+├── 🎨 UI
+│   ├── Landing Page
+│   └── Smooth Scroll
+│
+└── 🧠 Tech
+    └── HTML / CSS
+
 ✨ Highlights:
 ✔ Modern landing page
 ✔ Smooth scrolling
@@ -99,15 +199,11 @@ React + Vite | Tailwind | Framer Motion | React Hot Toast
 
 📚 Learning Journey
 
-I learned web development through:
-
 Bro Code
-
 SuperSimple Dev
-
 Route Academy
 
-Then applied everything through real projects, because watching tutorials alone is basically a hobby, not a skill.
+Applied everything through real projects (because tutorials alone don’t build skills).
 
 🌍 Languages
 
@@ -116,12 +212,10 @@ English: Professional Working Proficiency
 
 📫 Contact
 
-📧 Email: mohamedibrahim7113@gmail.com
+📧 mohamedibrahim7113@gmail.com
 
-🌐 Portfolio:
-https://mohamedibrahimx123.github.io/WebsiteProfilo/
+🌐 https://mohamedibrahimx123.github.io/WebsiteProfilo/
 
-💻 GitHub:
-https://github.com/mohamedibrahimx123
+💻 https://github.com/mohamedibrahimx123
 
 ⭐ Always open to collaboration, freelance work, and new opportunities.
