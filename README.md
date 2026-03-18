@@ -1,83 +1,127 @@
-# Mohamed Ibrahim 👨‍💻  
-**Front-End Developer | ReactJS**
+👨‍💻 Mohamed Ibrahim
+🚀 Front-End Developer | ReactJS
+<p align="center"> <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/UI%2FUX-Focused-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" /> </p>
+🧠 About Me
 
-Final year Computer Science student at **6th of October University** with a strong focus on building modern, responsive, and user-friendly web applications using **ReactJS** and modern front-end technologies.  
-I enjoy transforming ideas and designs into clean, functional, and scalable interfaces.
+Final year Computer Science student at 6th of October University with a strong focus on building modern, responsive, and user-friendly web applications using ReactJS.
 
----
+I enjoy turning ideas into clean, scalable, and interactive interfaces with real-world usability.
 
-## 🚀 About Me
-- 🎓 Computer Science student (4th Year – Expected 2025)
-- 💻 Front-End Developer specialized in **ReactJS**
-- 🌍 Interested in **Remote Work & Freelancing**
-- 📚 Self-taught through hands-on projects and continuous learning
-- 🧠 Strong focus on clean code, component-based architecture, and UI/UX
+🚀 What I Do
 
----
+✔ Build responsive and modern web apps
+✔ Create reusable and scalable components
+✔ Focus on UI/UX and performance
+✔ Convert designs into real applications
 
-## 🛠️ Tech Stack
-- **Front-End:** ReactJS, JavaScript (ES6+), HTML5, CSS3
-- **Styling:** Tailwind CSS, Bootstrap
-- **Tools:** Git, GitHub, Vite
-- **Other:** REST API Integration, Responsive Design, DOM Manipulation
+🛠️ Tech Stack
 
----
+💻 Frontend:
+ReactJS JavaScript (ES6+) HTML5 CSS3
 
-## 📌 Featured Projects
+🎨 Styling:
+Tailwind CSS Bootstrap
 
-### 🔹 Portfolio Website
-🔗 Live: https://mohamedibrahimx123.github.io/WebsiteProfilo/  
-💻 GitHub: https://github.com/mohamedibrahimx123/WebsiteProfilo  
+⚙️ Tools:
+Git GitHub Vite
 
-A fully responsive personal portfolio showcasing my projects, skills, and experience with a modern UI and smooth animations.
+🔗 Other Skills:
+REST APIs Responsive Design DOM Manipulation
 
----
+📌 Featured Projects
+🟡 Perfume E-commerce Store (Best Project)
 
-### 🔹 E-commerce Food Website
-🔗 Live: https://mohamedibrahimx123.github.io/E-commerce-Food-website/  
-💻 GitHub: https://github.com/mohamedibrahimx123/E-commerce-Food-website  
+🌐 Live:
+https://mohamedibrahimx123.github.io/Perfume-Ecommerce/
 
-Dynamic e-commerce interface built with ReactJS and Tailwind CSS, featuring product listings, shopping cart functionality, and responsive layouts.
+💻 GitHub:
+https://github.com/mohamedibrahimx123/Templete-Perfume-Website
 
----
+🧠 Overview:
+A premium perfume e-commerce demo with modern UI, smooth animations, and interactive shopping experience.
 
-### 🔹 Dragon Repeller Game
-🔗 Live: https://mohamedibrahimx123.github.io/Dragon-repeller-game/  
-💻 GitHub: https://github.com/mohamedibrahimx123/Dragon-repeller-game  
+✨ Highlights:
+✔ Luxury UI design (Gold + Cream aesthetic)
+✔ Smooth animations using Framer Motion
+✔ Add-to-cart + Toast notifications
+✔ Fully responsive design
+✔ Component-based architecture
+✔ Admin dashboard demo
 
-Interactive browser-based game demonstrating DOM manipulation, event handling, and game logic using vanilla JavaScript.
+⚡ Tech Used:
+React + Vite | Tailwind | Framer Motion | React Hot Toast
 
----
+🍔 E-commerce Food Website
 
-### 🔹 Restaurant Website
-🔗 Live: https://mohamedibrahimx123.github.io/Restaurant_Website/  
-💻 GitHub: https://github.com/mohamedibrahimx123/Restaurant_Website  
+🌐 https://mohamedibrahimx123.github.io/E-commerce-Food-website/
 
-Modern restaurant landing page with responsive layout, interactive sections, and smooth user experience.
+💻 https://github.com/mohamedibrahimx123/E-commerce-Food-website
 
----
+✨ Highlights:
+✔ Shopping cart functionality
+✔ Responsive product grid
+✔ Clean UI with Tailwind
+✔ State management in React
 
-## 📚 Learning Journey
-I learned web development through structured self-study from:
-- **Bro Code** (YouTube)
-- **SuperSimple Dev**
-- **Route Academy**
+🌐 Portfolio Website
 
-All concepts were reinforced by building real-world projects and applying best practices.
+🌐 https://mohamedibrahimx123.github.io/WebsiteProfilo/
 
----
+💻 https://github.com/mohamedibrahimx123/WebsiteProfilo
 
-## 🌐 Languages
-- Arabic: Native
-- English: Intermediate to Advanced (Professional Working Proficiency)
+✨ Highlights:
+✔ Personal branding & clean UI
+✔ Smooth animations
+✔ Fully responsive
+✔ Showcases all projects
 
----
+🎮 Dragon Repeller Game
 
-## 📫 Contact
-- 📧 Email: mohamedibrahim7113@gmail.com
-- 🌐 Portfolio: https://mohamedibrahimx123.github.io/WebsiteProfilo/
-- 💻 GitHub: https://github.com/mohamedibrahimx123
+🌐 https://mohamedibrahimx123.github.io/Dragon-repeller-game/
 
----
+💻 https://github.com/mohamedibrahimx123/Dragon-repeller-game
 
-⭐ Feel free to check out my repositories and projects. I’m always open to learning, collaboration, and new opportunities.
+✨ Highlights:
+✔ Game logic using JavaScript
+✔ DOM manipulation & events
+✔ Interactive gameplay
+
+🍽️ Restaurant Website
+
+🌐 https://mohamedibrahimx123.github.io/Restaurant_Website/
+
+💻 https://github.com/mohamedibrahimx123/Restaurant_Website
+
+✨ Highlights:
+✔ Modern landing page
+✔ Smooth scrolling
+✔ Responsive design
+
+📚 Learning Journey
+
+I learned web development through:
+
+Bro Code
+
+SuperSimple Dev
+
+Route Academy
+
+Then applied everything through real projects, because watching tutorials alone is basically a hobby, not a skill.
+
+🌍 Languages
+
+Arabic: Native
+English: Professional Working Proficiency
+
+📫 Contact
+
+📧 Email: mohamedibrahim7113@gmail.com
+
+🌐 Portfolio:
+https://mohamedibrahimx123.github.io/WebsiteProfilo/
+
+💻 GitHub:
+https://github.com/mohamedibrahimx123
+
+⭐ Always open to collaboration, freelance work, and new opportunities.
