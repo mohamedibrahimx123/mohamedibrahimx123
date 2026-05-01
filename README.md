@@ -23,7 +23,7 @@ I enjoy turning ideas into clean, scalable, and interactive interfaces with real
 Mohamed Ibrahim
 │
 ├── 🎓 Education
-│   └── Computer Science (Final Year - 2025)
+│   └── Computer Science (Final Year - 2026)
 │
 ├── 💻 Frontend Skills
 │   ├── ReactJS
