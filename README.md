@@ -69,7 +69,7 @@ Mohamed Ibrahim
 
 ### 🟡 Perfume E-commerce Store *(Best Project)*
 
-🌐 **Live:** [mohamedibrahimx123.github.io/Perfume-Ecommerce](https://mohamedibrahimx123.github.io/Perfume-Ecommerce/)
+🌐 **Live:** [mohamedibrahimx123.github.io/Perfume-Ecommerce](https://mohamedibrahimx123.github.io/Templete-Perfume-Website/)
 
 💻 **GitHub:** [github.com/mohamedibrahimx123/Templete-Perfume-Website](https://github.com/mohamedibrahimx123/Templete-Perfume-Website)
 
