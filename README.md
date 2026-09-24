@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-Final year Computer Science student at **6th of October University** with a strong focus on building modern, responsive, and user-friendly web applications using ReactJS.
+Graduate  from **6th of October University** with a strong focus on building modern, responsive, and user-friendly web applications using ReactJS.
 
 I enjoy turning ideas into clean, scalable, and interactive interfaces with real-world usability.
 
@@ -23,7 +23,7 @@ I enjoy turning ideas into clean, scalable, and interactive interfaces with real
 Mohamed Ibrahim
 │
 ├── 🎓 Education
-│   └── Computer Science (Final Year - 2026)
+│   └── Computer Science (Graduate - 2026)
 │
 ├── 💻 Frontend Skills
 │   ├── ReactJS
