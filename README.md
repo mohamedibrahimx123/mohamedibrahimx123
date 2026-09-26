@@ -1,8 +1,9 @@
 # 👨‍💻 Mohamed Ibrahim
-### 🚀 Front-End Developer | ReactJS
+### 🚀 Front-End Developer | ReactJS | AngularJS
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/UI%2FUX-Focused-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" />
@@ -26,6 +27,7 @@ Mohamed Ibrahim
 │   └── Computer Science (Graduate - 2026)
 │
 ├── 💻 Frontend Skills
+    ├── AngularJs
 │   ├── ReactJS
 │   ├── JavaScript (ES6+)
 │   └── HTML5 / CSS3
