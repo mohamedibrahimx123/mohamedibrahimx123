@@ -27,7 +27,7 @@ Mohamed Ibrahim
 │   └── Computer Science (Graduate - 2026)
 │
 ├── 💻 Frontend Skills
-    ├── AngularJs
+    ├── AngularTS
 │   ├── ReactJS
 │   ├── JavaScript (ES6+)
 │   └── HTML5 / CSS3
