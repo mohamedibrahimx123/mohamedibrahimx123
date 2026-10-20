@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-mohamedibrahim7113@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedibrahim7113@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-22c55e?style=for-the-badge)](mailto:mohamedibrahim7113@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=mohamedibrahimx123&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views" />
 
 </div>
 
