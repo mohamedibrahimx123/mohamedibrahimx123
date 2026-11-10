@@ -1,10 +1,10 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=220&section=header&text=Mohamed%20Ibrahim&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Engineer%20%C2%B7%20Team%20Leader%20%40%20STAT-Code&descSize=20&descAlignY=60&animation=fadeIn" alt="Mohamed Ibrahim banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=220&section=header&text=Mohamed%20Ibrahim&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Team%20Leader%20%40%20STAT-Code&descSize=20&descAlignY=60&animation=fadeIn" alt="Mohamed Ibrahim banner" />
 
 <div align="center">
 
 <a href="https://github.com/mohamedibrahimx123">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+production-ready+web+apps;React+%C2%B7+TypeScript+%C2%B7+Angular;Real-time+UIs+%26+gRPC-powered+front+ends;Performance+%C2%B7+Accessibility+%C2%B7+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+production-ready+web+apps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Angular;Node.js+%C2%B7+Express+%C2%B7+REST+%26+Real-time+APIs;Real-time+UIs+%26+gRPC-powered+front+ends;Performance+%C2%B7+Accessibility+%C2%B7+Clean+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,17 +20,18 @@
 
 ## 👋 About
 
-I'm a **Front-End Engineer with 2+ years of hands-on experience** and a **Team Leader at [STAT-Code](https://mohamedibrahimx123.github.io/WebsiteProfilo/#/)**, where I help ship web products that stay fast, maintainable and reliable under real-world conditions.
+I'm a **Full-Stack Engineer (Front-End focused) with 2+ years of hands-on experience** and a **Team Leader at [STAT-Code](https://mohamedibrahimx123.github.io/WebsiteProfilo/#/)**, where I help ship web products that stay fast, maintainable and reliable under real-world conditions.
 
-I don't just make interfaces look good. I think about what happens **after** the demo: error and loading states, bundle size, accessibility, real-time data flowing in, and the next developer who has to read my code.
+I build across the stack: **React, Next.js and Angular** on the front end, and **Node.js with Express** on the back end. I don't just make interfaces look good. I think about what happens **after** the demo: error and loading states, bundle size, accessibility, real-time data flowing in, API design, and the next developer who has to read my code.
 
 ```ts
 const mohamed = {
-  role: "Front-End Engineer & Team Leader",
+  role: "Full-Stack Engineer & Team Leader",
   company: "STAT-Code",
   experience: "2+ years",
   graduate: "Computer Science, 6th of October University (2026)",
-  focus: ["Real-Time Web", "gRPC", "Component Architecture", "Performance"],
+  stack: ["React", "Next.js", "Angular", "TypeScript", "Node.js", "Express"],
+  focus: ["Real-Time Web", "gRPC", "REST APIs", "Component Architecture", "Performance"],
   mindset: "If it's not production-ready, it's not done.",
   location: "Egypt 🇪🇬",
   languages: ["Arabic (Native)", "English (Professional)"],
@@ -45,6 +46,8 @@ const mohamed = {
 | | |
 |---|---|
 | 🏗️ **Scalable architecture** | Feature-based structure, reusable component systems, clear boundaries between UI, state and data layers. |
+| 🖥️ **Full-stack with Node.js** | REST APIs built with Node.js and Express: routing, middleware, validation, auth and clean error handling. |
+| ⚛️ **Next.js apps** | SSR, SSG and App Router pages with SEO-friendly rendering, API routes and fast first loads. |
 | 📡 **Real-time & gRPC** | Live dashboards and streaming data on the front end, with protocol-aware clients and resilient reconnection. |
 | 🚀 **Performance** | Code splitting, lazy loading, memoization, render profiling, Core Web Vitals awareness. |
 | ♿ **Accessibility & UX** | Semantic HTML, keyboard navigation, responsive, mobile-first interfaces. |
@@ -57,9 +60,13 @@ const mohamed = {
 
 <div align="center">
 
-**Core**
+**Front-End**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,angular,html,css&theme=dark" alt="Core" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,html,css&theme=dark" alt="Front-End" />
+
+**Back-End**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js&theme=dark" alt="Back-End" />
 
 **Styling & UI**
 
@@ -77,7 +84,8 @@ const mohamed = {
 
 | Category | Technologies |
 |----------|--------------|
-| **Frameworks** | React, Angular |
+| **Front-End Frameworks** | React, Next.js, Angular |
+| **Back-End** | Node.js, Express.js, REST APIs, middleware, authentication |
 | **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
 | **State & Data** | React Query / Context / Hooks, REST APIs, gRPC, WebSockets / real-time streams |
 | **Styling** | Tailwind CSS, Bootstrap, responsive & mobile-first design |
@@ -132,7 +140,7 @@ My best projects are **pinned on my profile**, and each repo has its own README 
 ## 🎯 Currently
 
 - 🔭 Deepening my work with **real-time architectures and gRPC on the front end**
-- 🧠 Strengthening **system design and advanced React/TypeScript patterns**
+- 🧠 Strengthening **system design, advanced React/Next.js patterns and Node.js/Express back ends**
 - 👥 Growing as a **tech lead**: reviews, mentoring and engineering standards
 - 🌍 Open to **remote opportunities and freelance projects**
 
@@ -140,7 +148,7 @@ My best projects are **pinned on my profile**, and each repo has its own README 
 
 ## 🤝 Let's Work Together
 
-If you need someone who can **own a front-end feature from idea to production**, let's talk.
+If you need someone who can **own a feature from idea to production, front end and back end**, let's talk.
 
 <div align="center">
 
